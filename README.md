@@ -20,32 +20,6 @@ Except for the specially highlighted situation, in all other cases any estimator
   <li><h4>If the researcher has already collected the RDS sample </h4></li>
         Then the specific number of seeds and coupons and rough value for the parameter will be known. With that              similar populations can be simulated and perform estimations to identify the estimator that works well for the         used number of seeds and coupons 
 </ul>
+
 ### 3.2.For Theoretical researchers
 Researchers can simulate populations with different properties and check the performance of the proposed inference in a broader manner
-
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
-## GitHub Documents
-
-This is an R Markdown format used for publishing markdown documents to GitHub. When you click the **Knit** button all R code chunks are run and a markdown file (.md) suitable for publishing to GitHub is generated.
-
-## Including Code
-
-You can include R code in the document as follows:
-
-```{r cars}
-summary(cars)
-```
-
-## Including Plots
-
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.

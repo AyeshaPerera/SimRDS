@@ -1,3 +1,14 @@
+# SimRDS Package
+
+## How to install
+```{r setup, include=FALSE}
+Install from GitHub :  devtools::install_github("AyeshaPerera/SimRDS")
+```
+
+## Description
+For better understanding of the usage of the package refer to **Perera, A., & Ramanayake, A. (2019). Assessing the effects of respondent driven sampling estimators on population characteristics. Proceeding of Asia International Conference on Multidisciplinary Research** 
+
+
 ---
 title: "Untitled"
 output: github_document

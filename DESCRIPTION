@@ -1,10 +1,10 @@
 Package: SimRDS
 Type: Package
-Title: Simulate RDS Populations and samples
+Title: Simulate Hidden Populations and extract RDS samples
 Version: 0.1.0
 Author: Ayesha Perera <gaayesha93@gmail.com>
 Maintainer: Ayesha Perera <gaayesha93@gmail.com>
-Description: Allowa to generate RDS populations according to user prefence and simulate samples.
+Description: Allows to generate hidden populations according to user prefence and simulate samples.
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true

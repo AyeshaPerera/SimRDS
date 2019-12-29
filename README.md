@@ -1,14 +1,21 @@
 # SimRDS Package
 
-## How to install
+## 1.How to install
 ```{r setup, include=FALSE}
 Install from GitHub :  devtools::install_github("AyeshaPerera/SimRDS")
 ```
 
-## Description
+## 2.Description
 For better understanding of the usage of the package refer to **Perera, A., & Ramanayake, A. (2019). Assessing the effects of respondent driven sampling estimators on population characteristics. Proceeding of Asia International Conference on Multidisciplinary Research** 
+Could be used to identify the fitting seeds, coupons and waves that should be used to extract samples and the most fitting estimator that should be used to make the estimate.
+Samples extracted using the package could be used to make estimates from the estimators defined in the RDS package.
 
-
+## 3.Guidelines
+### 3.1.For Empirical Researchers
+Except for the specially highlighted situation, in all other cases any estimator can be used to do the estimations.
+<ul>
+  <li>For the Researcher at the very ground level who has not collected any data</li>
+</ul>
 ---
 title: "Untitled"
 output: github_document
